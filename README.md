@@ -2,16 +2,7 @@
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I have a strong background in Finance and currently transition into QA Engineering.
-- 🌱 I just finished my studies at TripleTen and I am ready to take on new challenges.
-<!--
-**DaniPE23/DaniPE23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me: 
+- 🔭 I have a strong background in Finance and am currently transitioning into QA Engineering.
+- 🌱 I recently completed my studies at TripleTen, where I worked on several projects using SQL and Python. I am now ready to take on new challenges and grow in the tech industry.
+- 📫 Interested in connecting or learning more about me? Feel free to reach out!
